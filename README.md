@@ -38,6 +38,7 @@ The goal is to equip users with the knowledge needed to make informed rental dec
 - **Airbnb_homing_data_analysis_in_Zurich.ipynb :** notebook working with procedures, steps and results.
 
 ### **Interactive PowerBI Presentation**
-<p align="center">
-<iframe title="PowerBI Zurich" width="1024" height="612" src="https://app.powerbi.com/view?r=eyJrIjoiNTUxMjE0ZWItMjIzYS00NzZjLWE5ODAtODk4N2IwYzVkZGVjIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&pageName=0f10a9a68b08cbdba667" frameborder="0" allowFullScreen="true"></iframe>
-</p>
+![PowerBI Zurich](data/red_reviews.png)
+
+[Ver el informe interactivo en PowerBI](https://app.powerbi.com/view?r=eyJrIjoiNTUxMjE0ZWItMjIzYS00NzZjLWE5ODAtODk4N2IwYzVkZGVjIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&pageName=0f10a9a68b08cbdba667)
+
