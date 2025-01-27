@@ -20,7 +20,7 @@ Utilizing data from Inside Airbnb [https://insideairbnb.com/get-the-data/], the 
 
 The findings reveal important patterns and trends that drive rental prices, providing a robust foundation for making informed decisions in the competitive Zurich housing market.
 
-**Key words:** Airbnb, Zurich, data analysis, K-Nearest Neighbors (KNN), rental prices, housing market, accommodations, data science, professional relocation.
+**Key words:** Airbnb, Zurich, data analysis, K-Nearest Neighbors, KNN, rental prices, housing market, accommodations, data science, professional relocation.
 
 ## **OBJETIVE**
 This project aims to analyze Zurich's Airbnb housing market to provide professionals, above all europeans, who are looking for better job opportunities, with actionable insights for finding optimal accommodations.
