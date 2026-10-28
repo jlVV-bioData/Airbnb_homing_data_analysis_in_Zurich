@@ -1,5 +1,7 @@
 ----------------
+----------------
 # <center> **Airbnb homing data analysis in Zurich** <center>
+----------------
 ----------------
       Jose Luis Vázquez Vicario
       Data Analyst | Biologist
