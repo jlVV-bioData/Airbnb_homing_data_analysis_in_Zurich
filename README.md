@@ -4,7 +4,7 @@
 ----------------
 ----------------
       Jose Luis Vázquez Vicario
-      Data Analyst | Biologist
+      Business Analyst | Data Scientist | Data Engineer | Data Analyst | Biologist
       LinkedIn: www.linkedin.com/in/jlvv
       Email: eljl2v@gmail.com
 **<center>This project is licensed under the MIT License<center>**
